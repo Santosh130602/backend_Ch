@@ -86,7 +86,7 @@ The project uses **MongoDB (Mongoose)** for data storage, **Joi** for validation
 | Variable      | Description               | Example                             |
 | ------------- | ------------------------- | ----------------------------------- |
 | `MONGODB_URL` | MongoDB connection string | `mongodb://localhost:27017/quizapp` |
-| `PORT`        | Port on which server runs | `8000`                              |
+| `PORT`        | Port on which server runs | `4000`                              |
 
 ---
 
